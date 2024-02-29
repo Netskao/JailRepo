@@ -1,15 +1,15 @@
 Package: com.netskao.pulloverpro
-Version: 2.1.5-1
+Version: 2.1.5-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 2912
+Installed-Size: 2360
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.netskao.pulloverpro_2.1.5-1_iphoneos-arm64.deb
-Size: 802298
-MD5sum: 84dec3468f50de11dee68634329765c8
-SHA1: 21e96b5121b0f4b0f6ba1d905d96867c0d27a38d
-SHA256: ed71fd8810307940ba50b8f5703aa909b26ccb25945faef8cf125d67b6512575
+Filename: ./debs/com.netskao.pulloverpro_2.1.5-2_iphoneos-arm64.deb
+Size: 673474
+MD5sum: e3d25b371a046b71fcf3376686fa2c6a
+SHA1: 4d5446b269dd585b3b900f0e5c141c55cda1c11f
+SHA256: ca827afcbc9568d9d1ccd742c1a07272df4d63d674dc29d939d023fb718df9d9
 Section: Netskao-Tweaks
 Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
