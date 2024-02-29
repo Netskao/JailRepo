@@ -1,0 +1,17 @@
+Package: com.netskao.pulloverpro
+Version: 2.1.5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2880
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/com.netskao.pulloverpro_2.1.5_iphoneos-arm64.deb
+Size: 791548
+MD5sum: afa9bf30517afb7a42b0b6840c5aa4a2
+SHA1: fb7777e66a08ff38c803b8e51e1120951bf18811
+SHA256: 732b94a40ecaf2e214ad29c8702a03b5a680d1ddf8699025d8653068f2134d96
+Section: Netskao-Tweaks
+Description: A better way to multitask! Fix support for iOS15+
+Author: c1d3r
+Name: PullOver Pro
+
