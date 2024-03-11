@@ -81,16 +81,16 @@ Author: LonestarX
 Name: ShowTouch
 
 Package: com.netskao.wechatnotiavatar
-Version: 1.2-2
+Version: 1.2-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 1140
+Installed-Size: 1156
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./debs/com.netskao.wechatnotiavatar_1.2-2_iphoneos-arm64.deb
-Size: 221062
-MD5sum: 37bc78df4063a1818e8f125cdb2d753f
-SHA1: ed60107119fe7ed4a53d19bd598cd0fc8a88b30e
-SHA256: 337aac6b94d8e0e35a8d4f837aa5da150f3d1f7b27913d7abffc3ad949d870cc
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-3_iphoneos-arm64.deb
+Size: 225230
+MD5sum: b10105c255bad1dd4d21958ec20b2320
+SHA1: 075ed7d92b8136d6eb35a23e7611a101750d1631
+SHA256: 4c6f9d34cd47a4d57cf4f81c7a95e6ae55702e2c76bd08f6b1916bfefc0403e1
 Section: Netskao-Tweaks
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
