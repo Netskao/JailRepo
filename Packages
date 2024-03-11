@@ -14,6 +14,23 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
+Package: com.netskao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: ./debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64.deb
+Size: 4854
+MD5sum: cca66bdffa18a3371e11060ec53eb563
+SHA1: fdc824f452c5de7d7548fcd3387618fc0debcd60
+SHA256: 31f598ea071c33ea3f207807f6d5c4fc78c590f20d04f0664da6321b62f3757e
+Section: Netskao-Tweaks
+Homepage: https://tigisoftware.com/cydia/
+Description: Filza unlock full functionality, the main program please install in the official source
+Author: Netskao
+Name: Filza Crack
+
 Package: com.netskao.pulloverpro
 Version: 2.1.5-3
 Architecture: iphoneos-arm64
