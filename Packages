@@ -31,6 +31,22 @@ Description: Filza unlock full functionality, the main program please install in
 Author: Netskao
 Name: Filza Crack
 
+Package: com.netskao.flexlist
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 5020
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.flexlist_1.4-2_iphoneos-arm64.deb
+Size: 1319768
+MD5sum: 1c37aae236625c47903e77a22bb00702
+SHA1: c600654dc8b7e387a93fde61a7d9ed7097e00fda
+SHA256: db4314bbd4226bc5c22a537a823940286fc2bdfd1ab7a03457cd16270d1c735b
+Section: Netskao-Tweaks
+Description: FLEXList is a wrapper tool for FLEX Tool
+Author: Netskao
+Name: FLEXList
+
 Package: com.netskao.pulloverpro
 Version: 2.1.5-3
 Architecture: iphoneos-arm64
