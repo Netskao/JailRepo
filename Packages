@@ -48,17 +48,17 @@ Author: Netskao
 Name: FLEXList
 
 Package: com.netskao.pulloverpro
-Version: 2.1.5-3
+Version: 2.1.6
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 2440
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/com.netskao.pulloverpro_2.1.5-3_iphoneos-arm64.deb
-Size: 707746
-MD5sum: 20561b0033cf2392c6034067c7a7d8a0
-SHA1: f6da8539fe23dcb9cf8db245bda1e7cea8fd78bc
-SHA256: b9d8e6be555a4d81e4aa6ff13197cb9a941b89f47538e27388493956228bb647
+Filename: ./debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
+Size: 695996
+MD5sum: 390f189db06ebbe7510a44a77d9e61af
+SHA1: effe0adbe57f297eb9305480982d190a6a07d7da
+SHA256: 9ba98e8ebae78f22fd5394f714834bfa011e928df80aa87854ad406dc3406900
 Section: Netskao-Tweaks
 Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
