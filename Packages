@@ -97,16 +97,16 @@ Author: LonestarX
 Name: ShowTouch
 
 Package: com.netskao.storeswitchaccounts
-Version: 1.1-3
+Version: 1.1-4
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 460
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.storeswitchaccounts_1.1-3_iphoneos-arm64.deb
-Size: 97076
-MD5sum: d8c18d34f720e40637ec924b7e69f613
-SHA1: 53250be6dcf7588928800cf91d00a220072702a0
-SHA256: 902c425e4fb4a6978fa5c8b259738526e1452164f8d7fde04ae79093a588f62b
+Filename: ./debs/com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64.deb
+Size: 102250
+MD5sum: 4068837649849027df94f13ea5d2a7d5
+SHA1: 8def9d09e6b407747bbdfb91f8579f6f5df5ed18
+SHA256: cef9161d57877bd09f17c340d5e24fbf7e5375e480614d71547bf16662395673
 Section: Netskao-Tweaks
 Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
 Author: Netskao
