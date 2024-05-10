@@ -30,6 +30,22 @@ Description: Quickly clean up all red badge on desktop via Control Center, Suppo
 Author: Netskao
 Name: CCBadgeClear
 
+Package: com.netskao.cclifttowake
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.netskao.cclifttowake_1.1-1_iphoneos-arm64.deb
+Size: 16258
+MD5sum: cd94ec8a7f67385c1436b552bf753668
+SHA1: ddb29d542a0c9a568f0322ebc521c5f76a5b94ba
+SHA256: 12064a6d892690f1ea7e5132eadeade34ea41147c900708e435524d63a32fcb9
+Section: Netskao-Tweaks
+Description: Quickly enable or disable Wake on Lift from Control Center, Support iOS15+
+Author: Netskao
+Name: CCLiftToWake
+
 Package: com.netskao.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64
