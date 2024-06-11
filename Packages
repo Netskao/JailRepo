@@ -63,16 +63,16 @@ Author: Netskao
 Name: ClassicKeyboardXS
 
 Package: com.netskao.dumpdecrypter
-Version: 1.4-3
+Version: 1.4-4
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 3968
+Installed-Size: 4324
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.dumpdecrypter_1.4-3_iphoneos-arm64.deb
-Size: 1193662
-MD5sum: 2e16c10f9a97837c99adafa8ce57f8eb
-SHA1: 73b72482ad31d1f1287022304c61f75c1ffeea43
-SHA256: 7e9954c8b72173c7ac8ed79de77d599c4577550319010311a688a23217d3bc97
+Filename: ./debs/com.netskao.dumpdecrypter_1.4-4_iphoneos-arm64.deb
+Size: 1308366
+MD5sum: 07d89d2dbbb2bd47fcf9f4e8fd386ce2
+SHA1: f9bfe66c7bf997c7b87e6987a093c2226130a30a
+SHA256: f3eb70ca27c2b8e7489e6948b2e99d73a6e3d10f0dfc2f72ac17991d85aaa435
 Section: Netskao-Tweaks
 Description: Decrypt iOS Apps and Plugins
 Author: Netskao
