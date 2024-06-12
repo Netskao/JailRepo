@@ -62,6 +62,22 @@ Description: Customize the height of the bottom of the X-keyboard, the height of
 Author: Netskao
 Name: ClassicKeyboardXS
 
+Package: com.netskao.disablebottombarlrswipe
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.disablebottombarlrswipe_1.1-1_iphoneos-arm64.deb
+Size: 8952
+MD5sum: 0a6836a36ff9f2fd9db38a0738db79fb
+SHA1: 9e9f859579d8efcba7ef73b7511d45aa3f93f4f1
+SHA256: f0af8718de58b9d1081163ec74d32f09ea38b449470a6a616eddbe9633ff471f
+Section: Netskao-Tweaks
+Description: Disable bottom bar left/right swipe
+Author: Netskao
+Name: DisableBottomBarLRSwipe
+
 Package: com.netskao.dumpdecrypter
 Version: 1.4-4
 Architecture: iphoneos-arm64
