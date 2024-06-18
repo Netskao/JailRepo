@@ -63,16 +63,16 @@ Author: Netskao
 Name: ClassicKeyboardXS
 
 Package: com.netskao.disablebottombarlrswipe
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 168
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.disablebottombarlrswipe_1.1-1_iphoneos-arm64.deb
-Size: 8952
-MD5sum: 0a6836a36ff9f2fd9db38a0738db79fb
-SHA1: 9e9f859579d8efcba7ef73b7511d45aa3f93f4f1
-SHA256: f0af8718de58b9d1081163ec74d32f09ea38b449470a6a616eddbe9633ff471f
+Filename: ./debs/com.netskao.disablebottombarlrswipe_1.1-2_iphoneos-arm64.deb
+Size: 5632
+MD5sum: c65f7468cec6b66fb690fde014503d4d
+SHA1: 743735132e5fb28f9762e8c5d8eae854c8cb5919
+SHA256: 80432e840df5ca006e52a6c114727461a740c03ac5bc4c291b685ad6f9e2697f
 Section: Netskao-Tweaks
 Description: Disable bottom bar left/right swipe
 Author: Netskao
