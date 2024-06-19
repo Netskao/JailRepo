@@ -14,6 +14,22 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
+Package: com.netskao.awemefullscreen
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.1-1_iphoneos-arm64.deb
+Size: 17128
+MD5sum: dd3e73c6aa6261a1704a7d26d96fe63c
+SHA1: 310cd259f221c68ae3336eeebe1637593ca4f3bb
+SHA256: e4883b0119849f6db730d4c6263f0bb4a664a5394e5f998f2e09a684d7bab2ce
+Section: Netskao-Tweaks
+Description: Aweme Homepage Full Screen. Tested on version 29 only, failure will not be maintained
+Author: Netskao
+Name: AwemeFullScreen
+
 Package: com.netskao.ccbadgeclear
 Version: 1.2-6
 Architecture: iphoneos-arm64
