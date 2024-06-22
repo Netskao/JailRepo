@@ -30,6 +30,22 @@ Description: Aweme Full Screen. Tested on version 29.8.0 only, Failures due to s
 Author: Netskao
 Name: AwemeFullScreen
 
+Package: com.netskao.awemefullscreen
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemefullscreen_1.1-8_iphoneos-arm64.deb
+Size: 23626
+MD5sum: 3164f240588d52c74188a62aec87bf2a
+SHA1: 56ff55dcb3bd94dbc2c16f18d87b1cdddbff7076
+SHA256: a894776147837fb2a03cddec914afcccc3991b595d133920125f73b9df99c4b1
+Section: Netskao-Tweaks
+Description: Aweme Full Screen. Tested on version 29.8.0 only, Failures due to subsequent version updates will not be maintained.
+Author: Netskao
+Name: AwemeFullScreen
+
 Package: com.netskao.ccbadgeclear
 Version: 1.2-6
 Architecture: iphoneos-arm64
