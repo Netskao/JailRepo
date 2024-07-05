@@ -6,3 +6,4 @@ Version: 1.0
 Suite: stable
 Components: main
 Architectures: iphoneos-arm64
+Icon: file://favicon.png
