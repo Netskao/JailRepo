@@ -1,14 +1,14 @@
 Package: com.netskao.appdata
-Version: 1.4.1
+Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 14408
+Installed-Size: 3772
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.appdata_1.4.1_iphoneos-arm64.deb
-Size: 4637852
-MD5sum: 7c02190692158746803f6ccb3a10a708
-SHA1: 27458e206f55e2c25e7394d5848e0ea709bf288c
-SHA256: ba8a51c489687cd2b0b0528b17cc3a9ca8927d513f20b207bde69c720a8f5be8
+Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
+Size: 823820
+MD5sum: 090451a77622a645950b9eb617ff0075
+SHA1: 080c3f5babb93c1d27ed2a608f3867862a3d6eab
+SHA256: 1b64374f4ab692101d3c1ab6563b73622c569908b29475f17e6b1b17e6f62f33
 Section: Netskao-Tweaks
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
 Author: Fouad Raheb
