@@ -225,16 +225,16 @@ Author: Netskao
 Name: StoreSwitchAccounts
 
 Package: com.netskao.wechatnotiavatar
-Version: 1.2-4
+Version: 1.2-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 1140
+Installed-Size: 2336
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./debs/com.netskao.wechatnotiavatar_1.2-4_iphoneos-arm64.deb
-Size: 242712
-MD5sum: 5aac05c7013a01d1424289fc9d826734
-SHA1: 06352d24becbe4e94491b5c1bda1af28b9856700
-SHA256: a51c0d63c4768b0b04168381e27a25df1886bad1ef757636e3c16fed7eec3149
+Filename: ./debs/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
+Size: 522880
+MD5sum: 4b39d42872081b6271de3bd1df97866e
+SHA1: 58cbebc90903fed2ba0f9565057d823127bbf015
+SHA256: e2222ced8e50c2fcf1f0bb7506094e9a88985b5f40af445d8ccf04d106e9a0c0
 Section: Netskao-Tweaks
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
