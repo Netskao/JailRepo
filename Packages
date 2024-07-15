@@ -177,16 +177,16 @@ Author: c1d3r
 Name: PullOver Pro
 
 Package: com.netskao.qqnotiavatar
-Version: 1.2-1
+Version: 1.2-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 236
+Installed-Size: 204
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./debs/com.netskao.qqnotiavatar_1.2-1_iphoneos-arm64.deb
-Size: 49598
-MD5sum: fa0d24008edad487d1f4528750a07834
-SHA1: 237a413150a266141e2934886b77e67493cea934
-SHA256: 70f1899260ea08f78f32489e4532af5a8fba0037b9531f040c0abbfbc5751949
+Filename: ./debs/com.netskao.qqnotiavatar_1.2-2_iphoneos-arm64.deb
+Size: 25498
+MD5sum: 185681d809c5d2e0a4e9b50be31524d0
+SHA1: 85fa4b86e517c86c0be481da314708f0dc168785
+SHA256: 1cf4e928bdc954903f84751bd1eeb724109dba80e9266f8f8bb2dd88f3b95453
 Section: Netskao-Tweaks
 Description: Display Notification Avatars for QQ App using iOS15+ APIs
 Author: Netskao
