@@ -14,6 +14,22 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData
 
+Package: com.netskao.awemedisablebar
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemedisablebar_1.1-2_iphoneos-arm64.deb
+Size: 41244
+MD5sum: d76ea8c568bfba50cd380a2c58a310c8
+SHA1: 77bdb2feddecb19cc0c4f92f2e795b9898d6f44b
+SHA256: ba0e6fd27bc141352ac2dac28588d557d34010c984b4f8ed7ab1395537693dd4
+Section: Netskao-Tweaks
+Description: Aweme Disable Top/Bottom Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+
 Package: com.netskao.awemedownloadmedia
 Version: 1.1-6
 Architecture: iphoneos-arm64
