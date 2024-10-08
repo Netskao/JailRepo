@@ -15,16 +15,16 @@ Author: Fouad Raheb
 Name: AppData
 
 Package: com.netskao.awemedownloadmedia
-Version: 1.1-5
+Version: 1.1-6
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 324
+Installed-Size: 436
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.awemedownloadmedia_1.1-5_iphoneos-arm64.deb
-Size: 84824
-MD5sum: eab7279d06752a6918173924a0c58793
-SHA1: 64b91d3c1fad612b756b3d01c38e73cb7987d805
-SHA256: 64245e60a1cace37cfda25d8a2f6a654bbce82d25340928f4652d59a7f7b7b91
+Filename: ./debs/com.netskao.awemedownloadmedia_1.1-6_iphoneos-arm64.deb
+Size: 112288
+MD5sum: bc8b0fe06f1c708a94a9e74b55773cb3
+SHA1: ec1f82cee46cbd30015a0e3fcc55db5179efeb07
+SHA256: b1ab49bff80fa6b161b83f4c48678dc342ef510b3b9de17f13fc9114c30a4f48
 Section: Netskao-Tweaks
 Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 and above
 Author: Netskao
