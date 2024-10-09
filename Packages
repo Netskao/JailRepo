@@ -15,32 +15,32 @@ Author: Fouad Raheb
 Name: AppData
 
 Package: com.netskao.awemedisablebar
-Version: 1.1-2
+Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 172
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.awemedisablebar_1.1-2_iphoneos-arm64.deb
-Size: 41244
-MD5sum: d76ea8c568bfba50cd380a2c58a310c8
-SHA1: 77bdb2feddecb19cc0c4f92f2e795b9898d6f44b
-SHA256: ba0e6fd27bc141352ac2dac28588d557d34010c984b4f8ed7ab1395537693dd4
+Filename: ./debs/com.netskao.awemedisablebar_1.1-3_iphoneos-arm64.deb
+Size: 42026
+MD5sum: e90e0b9102d90af9b3b0a4c4b42cb2aa
+SHA1: dac96c1bfb7d84ebce109b558ad4006e0adc0cc2
+SHA256: 09ddee46231c25a4fdc7188dfce951fd59a1c25c14a143de25107ba2e3564b73
 Section: Netskao-Tweaks
 Description: Aweme Disable Top/Bottom Tab Button. Tested only on version 30.3.0 and above
 Author: Netskao
 Name: AwemeDisableBar
 
 Package: com.netskao.awemedownloadmedia
-Version: 1.1-6
+Version: 1.1-7
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 436
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.netskao.awemedownloadmedia_1.1-6_iphoneos-arm64.deb
-Size: 112288
-MD5sum: bc8b0fe06f1c708a94a9e74b55773cb3
-SHA1: ec1f82cee46cbd30015a0e3fcc55db5179efeb07
-SHA256: b1ab49bff80fa6b161b83f4c48678dc342ef510b3b9de17f13fc9114c30a4f48
+Filename: ./debs/com.netskao.awemedownloadmedia_1.1-7_iphoneos-arm64.deb
+Size: 112006
+MD5sum: 056d14ba1cc838f8e98363d6df457514
+SHA1: b0392f22b0f993f4885d1376ea4f818cc20b470c
+SHA256: fb2a5062d7bc0f3af3378692b2d9517237b76d3fe0cfc3b32bd351ca0bfe3c14
 Section: Netskao-Tweaks
 Description: Aweme No Watermark Download Media. Tested only on version 30.3.0 and above
 Author: Netskao
@@ -61,6 +61,22 @@ Section: Netskao-Tweaks
 Description: Aweme Full Screen. Tested on version 29.8.0 only, Failures due to subsequent version updates will not be maintained.
 Author: Netskao
 Name: AwemeFullScreen
+
+Package: com.netskao.awemevideotime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 124
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemevideotime_1.1-1_iphoneos-arm64.deb
+Size: 28130
+MD5sum: 38903851318e29e9d71f3d49f5b37e96
+SHA1: d4682178188539be02cb2ffa742c0fe33c44bf62
+SHA256: b7aeb34368eb6b3481b62c86fa18bca674db52e064e4edc79da95048c805a7bb
+Section: Netskao-Tweaks
+Description: Aweme Video Show Time. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeVideoTime
 
 Package: com.netskao.ccbadgeclear
 Version: 1.2-6
