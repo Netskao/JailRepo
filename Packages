@@ -100,6 +100,23 @@ Author: Netskao
 Name: AwemeFullScreen
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
 
+Package: com.netskao.awemesaveemoji
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemesaveemoji_1.1-2_iphoneos-arm64.deb
+Size: 74864
+MD5sum: 6fae88dc58c9786095abe94e6df64002
+SHA1: 5cc51b7b3ef20fcd4973dffdca049dda0a5bbaa6
+SHA256: 2bdc548aab28f8c1c6213386e6e542d43102d48642f22e2eece8c41197df48f2
+Section: Netskao-Tweaks
+Description: Aweme Save Comment Emoji. Tested on version 32.3.0 only
+Author: Netskao
+Name: AwemeSaveEmoji
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemesaveemoji.json
+
 Package: com.netskao.awemevideotime
 Version: 1.1-2
 Architecture: iphoneos-arm64
