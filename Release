@@ -1,0 +1,8 @@
+Label: Netskao's JailRepo
+Origin: Netskao's JailRepo
+Codename: Netskao's JailRepo
+Description: Netskao Jailbreak Repository
+Version: 1.0
+Suite: stable
+Components: main
+Architectures: iphoneos-arm64
