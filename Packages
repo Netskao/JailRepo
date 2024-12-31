@@ -359,16 +359,16 @@ Name: Twitter NoAds
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
 
 Package: com.netskao.wcmypageinfocenter
-Version: 1.1-8
+Version: 1.1-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 220
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.netskao.wcmypageinfocenter_1.1-8_iphoneos-arm64.deb
-Size: 65320
-MD5sum: c13da6931a752e9a4cad184db9ad24c5
-SHA1: 8d14a5154d25508a809ade56a8feda216e76897a
-SHA256: 64d861402519a9ed1d6e96881ddea0b811aabb0c89e2ef60b96a78cf28422513
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.1-9_iphoneos-arm64.deb
+Size: 67836
+MD5sum: 275f7736bf6cde10692f107fecb70d8c
+SHA1: 76f40013ebc4ea5bdc8f605d339f1d42ed02369b
+SHA256: 4354b369e9b57c7a4ef40049022f53d9878714b1590cdc3b593123656bb7f8a2
 Section: Netskao-Tweaks
 Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
 Author: Netskao
