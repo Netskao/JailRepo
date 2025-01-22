@@ -359,16 +359,16 @@ Name: Twitter NoAds
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
 
 Package: com.netskao.wcmypageinfocenter
-Version: 1.1-9
+Version: 1.2-1
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 220
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.netskao.wcmypageinfocenter_1.1-9_iphoneos-arm64.deb
-Size: 67836
-MD5sum: 275f7736bf6cde10692f107fecb70d8c
-SHA1: 76f40013ebc4ea5bdc8f605d339f1d42ed02369b
-SHA256: 4354b369e9b57c7a4ef40049022f53d9878714b1590cdc3b593123656bb7f8a2
+Filename: ./debs/com.netskao.wcmypageinfocenter_1.2-1_iphoneos-arm64.deb
+Size: 65176
+MD5sum: de91ee6f214569636718b54c9893644a
+SHA1: bf219870287ba3e0fd5bbbc0a4cd3126130b0a22
+SHA256: dfd9c8b53508c6d491a115633ffa168bc14d77f498c448ea4764c2bd0883b5f0
 Section: Netskao-Tweaks
 Description: WeChat My Page Info Center, Supported only for version 8.0.31 and above
 Author: Netskao
@@ -393,16 +393,16 @@ Name: WeChatNotiAvatar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
 
 Package: com.netskao.wechatuiswitchloader
-Version: 1.1-4
+Version: 1.1-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 320
+Installed-Size: 304
 Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-4_iphoneos-arm64.deb
-Size: 120836
-MD5sum: 19861ea6bb06387bb63fbdc98a557cc0
-SHA1: 87ae66a102c4e7932b1ceb050011bb83bbbfaabd
-SHA256: 7dcf3c2a70c155d671f0cd4bf6cd2b0d88e5fd8ff050f8db2dadcccb6f30bf77
+Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-5_iphoneos-arm64.deb
+Size: 119264
+MD5sum: 7506f835955a5c1f3d5ffc6a02a3a139
+SHA1: 7f45d95a34986c5122a7ba119e3650f6154ef8e2
+SHA256: 9b20fa1c129f0485ff6c64f0a70d63de6677a0139ea53b5acaacf091af373947
 Section: Netskao-Tweaks
 Description: WeChat UISwitch Loader
 Author: Netskao
