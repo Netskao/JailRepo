@@ -84,16 +84,16 @@ Name: AwemeDownloadMedia
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedownloadmedia.json
 
 Package: com.netskao.awemefullscreen
-Version: 1.2-5
+Version: 1.2-6
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 400
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/com.netskao.awemefullscreen_1.2-5_iphoneos-arm64.deb
-Size: 164848
-MD5sum: 63febd2f17e65a0c531c1633a1aa0aa4
-SHA1: 90b3de59f438c808c1caaceb992230d53924eeb9
-SHA256: 5bdcbe0dc37d06f59da9707ab349661218fc373345602833741409d0ee5a1733
+Filename: ./debs/com.netskao.awemefullscreen_1.2-6_iphoneos-arm64.deb
+Size: 168184
+MD5sum: 11acfa520a89e7b7e837c61b63bd0ae1
+SHA1: ef02b1fd0586daa63835257b4dc0aa0457c34884
+SHA256: e26130eb68755b14e0b73181d1d352bd42a993dc691778da1ecc8a406f5ea83d
 Section: Netskao-Tweaks
 Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
 Author: Netskao
