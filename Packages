@@ -341,23 +341,6 @@ Author: Netskao
 Name: StoreSwitchAccounts
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.storeswitchaccounts.json
 
-Package: com.netskao.twitternoads
-Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/com.netskao.twitternoads_1.1-2_iphoneos-arm64.deb
-Size: 2636
-MD5sum: 7d0fb366eb6f1b0baab2c7bdaef6478f
-SHA1: a9696e4ce5147e73dcc2361f7c57fd72e4779ad2
-SHA256: ad0813907bcf3e3c6436ee0466b0452a4c191b2859b5440a03047a01ce468981
-Section: Netskao-Tweaks
-Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
-Author: Netskao
-Name: Twitter NoAds
-Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
-
 Package: com.netskao.wcmypageinfocenter
 Version: 1.2-2
 Architecture: iphoneos-arm64
