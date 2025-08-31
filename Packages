@@ -359,16 +359,16 @@ Name: WCMyPageInfoCenter
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wcmypageinfocenter.json
 
 Package: com.netskao.wechatnotiavatar
-Version: 1.2-9
+Version: 1.3-1
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 1244
+Installed-Size: 1228
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./debs/com.netskao.wechatnotiavatar_1.2-9_iphoneos-arm64.deb
-Size: 241000
-MD5sum: a030cbcd25821e6368c921ea67692412
-SHA1: 96434618bcfe303d76798720b1594791f6c4ccdd
-SHA256: c4da00b6c4ba4bf843d5ac13c1f547322d8d7e571d65ce1f2a28413e09f5e53e
+Filename: ./debs/com.netskao.wechatnotiavatar_1.3-1_iphoneos-arm64.deb
+Size: 243440
+MD5sum: 4fdcfc8c02b39abd8c04c12b45cdbd03
+SHA1: 7b2d91d3a5f376bd022dd5d61bf5eb8c1f07ab83
+SHA256: 063b72363dc8c1d2246ff938d0fe0db2a43c8ee622f99cdf7908b58ad8b071bf
 Section: Netskao-Tweaks
 Description: Display Notification Avatars for WeChat App using iOS15+ APIs
 Author: Netskao
