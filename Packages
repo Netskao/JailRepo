@@ -169,16 +169,16 @@ Name: CCLiftToWake
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.cclifttowake.json
 
 Package: com.netskao.classickeyboardxs
-Version: 1.1-8
+Version: 1.1-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 1060
+Installed-Size: 1044
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.classickeyboardxs_1.1-8_iphoneos-arm64.deb
-Size: 233696
-MD5sum: 9488bcaeeb49b148db9b4140a8559683
-SHA1: 49c82a8196c645b1850d7afde68a4df650860a9b
-SHA256: 1cdb7cca8fc7f94a611a23b6354cd759fd99b84255656eab490987f91da88aae
+Filename: ./debs/com.netskao.classickeyboardxs_1.1-9_iphoneos-arm64.deb
+Size: 275676
+MD5sum: 06aa60bfb13653f8b2405f572db1cb41
+SHA1: 82a939be0a54c07fea7bd690de7d342fd0b9b46b
+SHA256: bc56777d665ef022383b2c9deff2b7b8b3db21fef673c45553d6afc3de21877b
 Section: Netskao-Tweaks
 Description: Customize the height of the bottom of the X-keyboard, the height of the bottom of the earth, etc.
 Author: Netskao
