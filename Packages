@@ -220,18 +220,18 @@ Name: DumpDecrypter
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
 
 Package: com.netskao.evilmeowcrack
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 92
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/com.netskao.evilmeowcrack_1.1-1_iphoneos-arm64.deb
-Size: 13784
-MD5sum: b7a1668185b8859010ff86eff92af0eb
-SHA1: 1517a9429f8f412619e92e8883b9ecc99c88bcbc
-SHA256: 01ea8d4436f5191b94ae46800bd5a854f9327ba12b3cc718756b2d183b5e0807
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.evilmeowcrack_1.1-2_iphoneos-arm64.deb
+Size: 22472
+MD5sum: 9d54ac6d7ce488c46799f132296f5bfc
+SHA1: 3b06ca095e3ccbb2ff021f71c2c4cfe974b0b778
+SHA256: 6c2d208674bfc0249a789a685a9e9c14b295d698fd3efd6063f1ff384a87df2d
 Section: Netskao-Tweaks
-Description: 让我喵喵1.6.9版本解锁会员
+Description: 让我喵喵解锁会员, 支持1.6.8及以上版本(当前最新版1.7.0已测试)
 Author: Netskao
 Name: 让我喵喵 Crack
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.evilmeowcrack.json
