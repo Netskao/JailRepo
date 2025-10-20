@@ -271,6 +271,23 @@ Author: Netskao
 Name: FLEXList
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.flexlist.json
 
+Package: com.netskao.injectipa
+Version: 1.5-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1688
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.netskao.injectipa_1.5-7_iphoneos-arm64.deb
+Size: 417236
+MD5sum: d05283d808f304dc7cab65aa7fddeb22
+SHA1: 35d0582a6cc381d135093d60daa5b3c23b4f8f03
+SHA256: 6b3705f20b11067fbc564cc603d125067b9be5c48fbe6d04179f79f4a78a76ee
+Section: Netskao-Tweaks
+Description: InjectIPA Tool
+Author: Netskao
+Name: injectipa
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.injectipa.json
+
 Package: com.netskao.noappthinning
 Version: 1.4
 Architecture: iphoneos-arm64
