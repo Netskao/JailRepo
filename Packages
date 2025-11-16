@@ -288,6 +288,23 @@ Author: Netskao
 Name: injectipa
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.injectipa.json
 
+Package: com.netskao.mangaboxcrack
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 304
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.mangaboxcrack_1.1-1_iphoneos-arm64.deb
+Size: 80328
+MD5sum: e4e5f97b8d13f944908ad237248ef44f
+SHA1: bf96d783701be5924bbbc9b404fee80b04d5db88
+SHA256: fa4940e3742942652709e81d6a0507b2e4975a522fdb493d2bdfee4c8f6d2168
+Section: Netskao-Tweaks
+Description: MangaBox Crack
+Author: Netskao
+Name: MangaBox Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.mangaboxcrack.json
+
 Package: com.netskao.noappthinning
 Version: 1.4
 Architecture: iphoneos-arm64
