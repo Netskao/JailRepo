@@ -288,6 +288,23 @@ Author: Netskao
 Name: injectipa
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.injectipa.json
 
+Package: com.netskao.lbbrowsercrack
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 208
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/com.netskao.lbbrowsercrack_1.1-2_iphoneos-arm64.deb
+Size: 44088
+MD5sum: 36af9c4205f9a61fb16f065d0f0df0e3
+SHA1: 1fbde2f912f0fc01addf183717ccd1ec1d63aca8
+SHA256: 1c02216f5a7f573939c8f6707545903e8f5e0e4b1116e29008a003b25ba619a5
+Section: Netskao-Tweaks
+Description: 李白浏览器解锁全功能
+Author: Netskao
+Name: 李白浏览器 Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.lbbrowsercrack.json
+
 Package: com.netskao.mangaboxcrack
 Version: 1.1-1
 Architecture: iphoneos-arm64
