@@ -444,16 +444,16 @@ Name: WCMyPageInfoCenter
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wcmypageinfocenter.json
 
 Package: com.netskao.wctimelinereplacefind
-Version: 1.1-2
+Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 852
+Installed-Size: 836
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/com.netskao.wctimelinereplacefind_1.1-2_iphoneos-arm64.deb
-Size: 348004
-MD5sum: 5837ab2a38607eda9711fc782e762706
-SHA1: 9500d177807312723de6b6f710e2ad7e8c439fda
-SHA256: 287cac82286cab70e2ca36c6d228ecb44447b8d5acb7cbea60d9a2e518adbee7
+Filename: ./debs/com.netskao.wctimelinereplacefind_1.1-3_iphoneos-arm64.deb
+Size: 338220
+MD5sum: b033f51409e6e95f821bcc4e98ba2f1d
+SHA1: 376a0c814db62761bfa20ea3637322a3b979920f
+SHA256: 2befef609532991cd6293468344fa454a258fd31b930272fe26022f8c65ada09
 Section: Netskao-Tweaks
 Description: 使用朋友圈替换发现底栏
 Author: Netskao
