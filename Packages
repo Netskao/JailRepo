@@ -271,6 +271,23 @@ Author: Netskao
 Name: FLEXList
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.flexlist.json
 
+Package: com.netskao.imgplaycrack
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1064
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.imgplaycrack_1.1-2_iphoneos-arm64.deb
+Size: 416104
+MD5sum: 62bde35b3f431c5e88f7eab200815cfe
+SHA1: 4ab8e4625e226f43fe2225e73a70a655672811a7
+SHA256: 6ba9038869a81bf7880813d3b4405d83c619ae1b3ead6e3d20887021e8106b8c
+Section: Netskao-Tweaks
+Description: ImgPlay Crack, Supports version 6.4.2 and above
+Author: Netskao
+Name: ImgPlay Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.imgplaycrack.json
+
 Package: com.netskao.injectipa
 Version: 1.5-7
 Architecture: iphoneos-arm64
