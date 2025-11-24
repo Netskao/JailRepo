@@ -356,6 +356,23 @@ Author: Netskao
 Name: MangaBox Crack
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.mangaboxcrack.json
 
+Package: com.netskao.medibangcrack
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1452
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/com.netskao.medibangcrack_1.1-2_iphoneos-arm64.deb
+Size: 586332
+MD5sum: a4f9cad44a05e05b421073210d069faa
+SHA1: 8dff2e3f3a35e0129ad40422bd40b316b09b703a
+SHA256: 090f1e95b867caba898f8c429e2d05ae9d42337c6cc329a9c12718a1af042f11
+Section: Netskao-NoAds
+Description: MediBang/MediBangPaint/MediBangPro Crack. (MediBang/MediBangPaint)Supports version 28.12 and above, (MediBangPro)Supports version 3.1 and above
+Author: Netskao
+Name: MediBang Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.medibangcrack.json
+
 Package: com.netskao.noappthinning
 Version: 1.4
 Architecture: iphoneos-arm64
