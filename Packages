@@ -326,13 +326,13 @@ Package: com.netskao.leoreadercrack
 Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 720
+Installed-Size: 756
 Depends: firmware (>= 13.0), mobilesubstrate
 Filename: ./debs/com.netskao.leoreadercrack_1.1-3_iphoneos-arm64.deb
-Size: 276136
-MD5sum: 56afafdc13c9a32e4602f3974581f446
-SHA1: 8f16cbbd2d6c7ea1b1a1aa4af1200d5edc654d88
-SHA256: 4f2006a2b5628e94561aa17a36c366f2b9abd5b274a076c86f7ea0eb3ac7e850
+Size: 306016
+MD5sum: 462ce23a223394e03ad0387e37b7ff91
+SHA1: 2fc98eeaa81375effcabfd84ba042d916f8b3785
+SHA256: c51a9a9fee536e7944b4efa5164ae9b201224d2cab9c0ca23b3ecaeff874dd22
 Section: Netskao-Tweaks
 Description: 极简阅读解锁全功能
 Author: Netskao
