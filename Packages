@@ -323,18 +323,18 @@ Name: 李白浏览器 Crack
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.lbbrowsercrack.json
 
 Package: com.netskao.leoreadercrack
-Version: 1.1-2
+Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 1016
+Installed-Size: 720
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/com.netskao.leoreadercrack_1.1-2_iphoneos-arm64.deb
-Size: 387632
-MD5sum: e6d6f71834bba5f62d9484c4a4d5e61f
-SHA1: 5dda89428a9012d5ce737684134dde32c147ca80
-SHA256: 515e68b8190e37f4ed07f01c9801305556b4c35387960bc1957c3400215c6145
+Filename: ./debs/com.netskao.leoreadercrack_1.1-3_iphoneos-arm64.deb
+Size: 276136
+MD5sum: 56afafdc13c9a32e4602f3974581f446
+SHA1: 8f16cbbd2d6c7ea1b1a1aa4af1200d5edc654d88
+SHA256: 4f2006a2b5628e94561aa17a36c366f2b9abd5b274a076c86f7ea0eb3ac7e850
 Section: Netskao-Tweaks
-Description: 极简阅读解锁Pro, 支持当前最新版1.9.9
+Description: 极简阅读解锁全功能
 Author: Netskao
 Name: 极简阅读 Crack
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.leoreadercrack.json
