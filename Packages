@@ -15,6 +15,23 @@ Author: Fouad Raheb
 Name: AppData
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 
+Package: com.netskao.artstudioprocrack
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 708
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.netskao.artstudioprocrack_1.1-1_iphoneos-arm64.deb
+Size: 289252
+MD5sum: 43537817886ad824d63ff89ad6656140
+SHA1: 29fd90973f9d21752ef2341ef85adc49da29b82b
+SHA256: dfdfe25025db8cc7d3d9ba26a146f9839aaff0fd340f2200b0965eba17d99ddf
+Section: Netskao-Tweaks
+Description: ArtstudioPro Unlock All
+Author: Netskao
+Name: ArtstudioPro Crack
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.artstudioprocrack.json
+
 Package: com.netskao.awemealwaysshowtime
 Version: 1.1-1
 Architecture: iphoneos-arm64
