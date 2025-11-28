@@ -478,16 +478,16 @@ Name: StoreSwitchAccounts
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.storeswitchaccounts.json
 
 Package: com.netskao.swiftgramcrack
-Version: 1.1-6
+Version: 1.1-7
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 1096
+Installed-Size: 1080
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/com.netskao.swiftgramcrack_1.1-6_iphoneos-arm64.deb
-Size: 432656
-MD5sum: b5a5cb302b362a89221d06aa0bd0c924
-SHA1: 330c88ef26d640715bfea8316f74744f33ec58f6
-SHA256: 2896a05dbea46e5a9c62d2a00d3029a87aefe5ade659e3ebefe81d798b6805f4
+Filename: ./debs/com.netskao.swiftgramcrack_1.1-7_iphoneos-arm64.deb
+Size: 423944
+MD5sum: 3a6c282522a919c84f9c93c54de8c8f9
+SHA1: 15184fbfeaf8f4c69f890e0d3a892079ec06946e
+SHA256: 3f8f843866d2c1f1ef7a5d60154397c0fb9d4f798dc094a2ecf32693fe751fa6
 Section: Netskao-Tweaks
 Description: Swiftgram Pro. 附加解除下载保护/解除截图保护/去除官方广告, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
 Author: Netskao
