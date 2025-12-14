@@ -320,18 +320,18 @@ Author: Netskao
 Name: 极简阅读 Crack
 
 Package: com.netskao.mangaboxcrack
-Version: 1.1-2
+Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 1292
+Installed-Size: 304
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: debs/com.netskao.mangaboxcrack_1.1-2_iphoneos-arm64.deb
-Size: 486184
-MD5sum: e17f6145013987a078ef1aa93c36b8e5
-SHA1: 66708fad7afd8db6f1f9869df213a5f914c28e07
-SHA256: 41aa34de0f7fd6daf36aeee22300a7dbc1b8a683eaae9d11c26f97a3ac895041
+Filename: debs/com.netskao.mangaboxcrack_1.1-3_iphoneos-arm64.deb
+Size: 86144
+MD5sum: 2af45ce8d08040fb87ecd53faaa44a10
+SHA1: 6f043990654d5ad01dc16517582092f064173bb2
+SHA256: cbcf0f5aec65e6c85a7746dbe6aa31cd02062bab134b48d465641ff3e2a853f0
 Section: Netskao-Tweaks
-Description: MangaBox Crack, Supports version 1.2.6 and above
+Description: MangaBox Crack, Supports version 1.2.4 and above
 Author: Netskao
 Name: MangaBox Crack
 
