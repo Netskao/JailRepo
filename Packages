@@ -255,22 +255,6 @@ Description: Filza unlock full functionality, the main program please install in
 Author: Netskao
 Name: Filza Crack
 
-Package: com.netskao.flexlist
-Version: 1.4-2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 5020
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: debs/com.netskao.flexlist_1.4-2_iphoneos-arm64.deb
-Size: 1319840
-MD5sum: 8eee8e2e93bb136542bf2391c5d5607d
-SHA1: cdd04e527784b2345cb40822f936b9811506a4b9
-SHA256: 60bc68e2ba8d517fa3870fb64ef3d4299c402ef4b0351294bfdb19b9af4f485f
-Section: Netskao-Tweaks
-Description: FLEXList is a wrapper tool for FLEX Tool
-Author: Netskao
-Name: FLEXList
-
 Package: com.netskao.imgplaycrack
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -383,23 +367,6 @@ Section: Netskao-Tweaks
 Description: Disable AppStore app thinning - by level3tjg, Disable TestFlight app thinning - by Netskao
 Author: Netskao
 Name: NoAppThinning
-
-Package: com.netskao.pulloverpro
-Version: 2.1.6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 2440
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
-Size: 696156
-MD5sum: 473b23f5896bb19a7720cc5e3ee1df44
-SHA1: 42ce09c5da9e5d15512bca79053bbf5a20d11569
-SHA256: 1a01a9f44477f37dfd84eb66050b7d03914671c7ce5fee57bc361e2fc9acc685
-Section: Netskao-Tweaks
-Description: A better way to multitask! Fix support for iOS15+
-Author: c1d3r
-Name: PullOver Pro
 
 Package: com.netskao.qqnotiavatar
 Version: 1.2-2
