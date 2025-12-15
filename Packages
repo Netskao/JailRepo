@@ -342,11 +342,11 @@ Maintainer: Nets
 Installed-Size: 1452
 Depends: firmware (>= 16.0), mobilesubstrate
 Filename: debs/com.netskao.medibangcrack_1.1-2_iphoneos-arm64.deb
-Size: 586236
-MD5sum: 8faa3efc4fd4521b182a40fafb0fa358
-SHA1: c446b47975f6a26082a9f04e287e3d0d2dc2f2dd
-SHA256: aaf9d2480fe9b33e2a507b61301ef5d12583e43b8696262b9c9635c420755999
-Section: Netskao-NoAds
+Size: 586044
+MD5sum: 2708711279949ac33dd1e50eae25f305
+SHA1: 7a9ca4c602728c266478dc22ea9ca17b79ca617e
+SHA256: 42f79b2b10ce3fffb9835cc25b8443f35a92b9bfef5c8571d6ed91bbf4d922fe
+Section: Netskao-Tweaks
 Description: MediBang/MediBangPaint/MediBangPro Crack. (MediBang/MediBangPaint)Supports version 28.12 and above, (MediBangPro)Supports version 3.1 and above
 Author: Netskao
 Name: MediBang Crack
