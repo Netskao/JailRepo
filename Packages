@@ -190,6 +190,22 @@ Description: Customize the height of the bottom of the X-keyboard, the height of
 Author: Netskao
 Name: ClassicKeyboardXS
 
+Package: com.netskao.dazzcameracrack
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 416
+Depends: firmware (>= 15.6), mobilesubstrate
+Filename: debs/com.netskao.dazzcameracrack_1.1-1_iphoneos-arm64.deb
+Size: 120222
+MD5sum: 5594ddc4e91e258f5adceda96595a6cf
+SHA1: 508c40415aa471dcb15db7f5b6f62767a160ee9d
+SHA256: e0111cba604d6f00f70e2b92f3e90683da649f63a4250df3d4db70e22a387ac7
+Section: Netskao-Tweaks
+Description: DazzCamera Crack
+Author: Netskao
+Name: DazzCamera Crack
+
 Package: com.netskao.disablebottombarlrswipe
 Version: 1.1-2
 Architecture: iphoneos-arm64
