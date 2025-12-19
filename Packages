@@ -191,16 +191,16 @@ Author: Netskao
 Name: ClassicKeyboardXS
 
 Package: com.netskao.dazzcameracrack
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 416
+Installed-Size: 1044
 Depends: firmware (>= 15.6), mobilesubstrate
-Filename: debs/com.netskao.dazzcameracrack_1.1-1_iphoneos-arm64.deb
-Size: 120222
-MD5sum: 5594ddc4e91e258f5adceda96595a6cf
-SHA1: 508c40415aa471dcb15db7f5b6f62767a160ee9d
-SHA256: e0111cba604d6f00f70e2b92f3e90683da649f63a4250df3d4db70e22a387ac7
+Filename: debs/com.netskao.dazzcameracrack_1.1-2_iphoneos-arm64.deb
+Size: 412924
+MD5sum: d7c5a613d9aae19a3846810d28300fe9
+SHA1: 915c749d4a4d354ec414adb7efb7a650fccb3f35
+SHA256: 5a5c73d2760bd706475dfca5b22418381ead73008f5f9e249263c0985d576634
 Section: Netskao-Tweaks
 Description: DazzCamera Crack
 Author: Netskao
