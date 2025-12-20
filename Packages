@@ -255,19 +255,18 @@ Author: Netskao
 Name: 让我喵喵 Crack
 
 Package: com.netskao.filzacrack
-Version: 1.1-8
+Version: 1.1-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 88
-Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
-Filename: debs/com.netskao.filzacrack_1.1-8_iphoneos-arm64.deb
-Size: 4972
-MD5sum: f594a0b154fa67af21162fe204588ac8
-SHA1: 6e3845dd7a42069ef6884b6d81ca2f5a75f3d8c0
-SHA256: a727625c5549f7c4fa8849ed9fe345c45f58ffd2defcbffffa3ec69e98f5d5e3
+Installed-Size: 120
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.netskao.filzacrack_1.1-9_iphoneos-arm64.deb
+Size: 28576
+MD5sum: c1588f21fad674e184ed37670a24f180
+SHA1: 7fb7cdbd403d8d2c06b2ea25f0edaf714a349dd1
+SHA256: 2ccb5c8d2fb4a9667ee36da2a1731d9cae276583bec0f8ccdfda61a9e5262eb3
 Section: Netskao-Tweaks
-Homepage: https://tigisoftware.com/cydia/
-Description: Filza unlock full functionality, the main program please install in the official source
+Description: Filza Crack
 Author: Netskao
 Name: Filza Crack
 
