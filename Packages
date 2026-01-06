@@ -271,18 +271,18 @@ Author: Netskao
 Name: Filza Crack
 
 Package: com.netskao.imgplaycrack
-Version: 1.1-4
+Version: 1.1-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 980
+Installed-Size: 1012
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/com.netskao.imgplaycrack_1.1-4_iphoneos-arm64.deb
-Size: 372336
-MD5sum: ac87a0816f4dd3ecbc8d9e0c44a172f7
-SHA1: bca3225746839c237661a17a68b98f578899451d
-SHA256: e29c4471368c75e6d1066fbaef38e7c8c2909664c023ed02d7a0a6d1ec6d203f
+Filename: debs/com.netskao.imgplaycrack_1.1-5_iphoneos-arm64.deb
+Size: 381320
+MD5sum: 56937b5f164684489563d5640664664a
+SHA1: 97287803dab5266b187878653c4968f560728715
+SHA256: 4780b915b82cd971d87c3cd20366844314dceadecd622e37c3532f488841e41f
 Section: Netskao-Tweaks
-Description: ImgPlay Crack, Supports version 6.5.1 only
+Description: ImgPlay Crack, Supports version 6.5.2 only
 Author: Netskao
 Name: ImgPlay Crack
 
